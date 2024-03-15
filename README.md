@@ -1,4 +1,3 @@
-# learning
-This is to learn git and github.
+<h1>Github Practice</h1>
 <br>
-This is just the learning phase
+<p>Just to leanr what is git and github and how they work</p>
